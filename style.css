@@ -46,7 +46,10 @@ body {
     width: 400px;
     height: 250px;
 }
-
+.fotoInicio{
+    width: 400px;
+    height: 250px;
+}
 #caja-menu {
     padding-left:20%;
     padding-right:20%;
